@@ -4,6 +4,7 @@
   "description": "Angular v8 application with two example pages for be included in a single-spa application as registered app.",
   "main": "dist/main-es2015.js",
   "scripts": {
+    "build": "ng build",
     "ng": "ng",
     "test": "ng test",
     "lint": "ng lint",
